@@ -1,0 +1,67 @@
+[
+  {
+    "name": "NetflixGPt",
+    "desc": "An AI-powered movie recommendation app that suggests films based on user preferences using OpenAI's GPT-3.5 Turbo and TMDb API.",
+    "image": "NetflixGPT",
+    "category": "mern",
+    "links": {
+      "view": "/",
+      "code": "https://github.com/Alex42192/Netflix-GPT"
+    }
+  },
+
+ 
+  {
+    "name": "Weather App",
+    "desc": "A JavaScript weather app fetching real-time data via OpenWeather API for any city or current location.",
+    "image": "WeatherApp",
+    "category": "mern",
+    "links": {
+      "view": "https://alex42192.github.io/WeatherTracker/",
+      "code": "https://github.com/Alex42192/WeatherTracker"
+    }
+  },
+  {
+    "name": "Streamsphere",
+    "desc": "A web app using TMDb API to fetch, search, and display movie details like title and rating.",
+    "image": "StreamSphere",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/mkraj-7838/MovieNest",
+      "code": "https://mkraj-7838.github.io/MovieNest/"
+    }
+  },
+
+  {
+    "name": "Password Generator Website",
+    "desc": "A simple password generator creating strong, customizable passwords with letters, numbers, and special symbols.",
+    "image": "PasswordGenerator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://alex42192.github.io/PasswordGenerator/",
+      "code": "https://github.com/Alex42192/PasswordGenerator"
+    }
+  },
+  {
+    "name": "Ziply",
+    "desc": "Built a real-time delivery platform that auto-assigned orders to the nearest store using geolocation (Haversine + OpenCage API), reducing order routing time to under 30 seconds.",
+    "image": "Ziply",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Alex42192/Ziply"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+  
+ 
+]
